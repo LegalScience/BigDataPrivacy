@@ -1,0 +1,21 @@
+
+
+---
+
+CUSP Book
+
+MIT Working Group
+
+LegalScience
+
+----
+
+White House Questions
+
+(1) What are the public policy implications of the collection, storage, analysis, and use of big data? For example, do the current U.S. policy framework and privacy proposals for protecting consumer privacy andgovernment use of data adequately address issues raised by big data analytics?
+(2) What types of uses of big data could measurably improve outcomes or productivity with further government action, funding, or research? What types of uses of big data raise the most public policy concerns? Are there specific sectors or types of uses that should receive more government and/or public attention?
+(3) What technological trends or key technologies will affect the collection, storage, analysis and use of big data? Are there particularly promising technologies or new practices for safeguarding privacy while enabling effective uses of big data?
+(4) How should the policy frameworks or regulations for handling big data differ between the government and the private sector? Please be specific as to the type of entity and type of use (e.g., law enforcement, government services, commercial, academic research, etc.).
+(5) What issues are raised by the use of big data across jurisdictions, such as the adequacy of current international laws, regulations, or norms?
+
+Collection and JSON/Semantic Structure

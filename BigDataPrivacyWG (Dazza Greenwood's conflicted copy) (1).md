@@ -120,7 +120,10 @@ may differ from col ection by, say, an independent corporation or other third pa
 goals of the MIT Living Lab project is to demonstrate best practices for how organizations col ect
 and manage personal information, including informed consent, auditable permissions and
 provenance.
-Topic #4.5 - public good/ policy research using sensor data
+
+
+
+## Topic #4.5 - public good/ policy research using sensor data
 (mobile devices, social networks, etc).
 Inspired by: Gates Foundation, Health? Energy? (home data)!, Harvard six cities study
 Team: [Jake Kendal /Gates Foundation?]
@@ -142,7 +145,9 @@ predict our every step. There are good uses for these technologies as wel , as i
 information and control provides better convenience, safety, and may also result in better
 epidemiological data that can save lives.
 3
-Topic #5: Understanding and Tracking User Consent and
+
+
+## Topic #5: Understanding and Tracking User Consent and
 Management
 Inspired by: S17, S3
 Team: Simon Thompson (BT), Karen Sol ins (MIT)
@@ -154,7 +159,9 @@ manager or data owner on the their obligations and the implications of their act
 conflicting requirements. What is the best way to explain where and how data is shared, who
 that data is shared with, what should be done with the data, and what information that
 data could provide?
-Topic #6: Dynamic Pricing and Advertising
+
+
+## Topic #6: Dynamic Pricing and Advertising
 Inspired by: S1
 Team: tbd
 Guide: Elizabeth
@@ -183,7 +190,9 @@ Finding secure, trusted and privacy­sensitive means for sharing genetic informa
 network effects that wil  accelerate scientific research. To do this, we must understand the
 privacy risks associated with genetic information, and the controls available to minimize or
 mitigate these risks.
-Topic #7: Big Data and Privacy in Intelligence and National
+
+
+## Topic #7: Big Data and Privacy in Intelligence and National
 Security
 Inspired by: Recent events
 Team: John Delong
@@ -191,7 +200,9 @@ Guide: Danny
 Recents events have made it clear that there is a need for better public understanding of privacy
 guarantees in intel igence gathering. What technologies exist to prove that SIGINT data, once
 col ected, wil  only be used in ways that are compliant with federal laws and policy?
-Topic #8: Financial Industry / Consumer Finance Data
+
+
+## Topic #8: Financial Industry / Consumer Finance Data
 Inspired by: Financial Industry
 Team:
 Guide: Mona
@@ -209,4 +220,10 @@ http://www.spatialinformationdesignlab.org/projects.php?id=16
 level of care required to protect the privacy of consumer.
 
 
-# 
+# Next steps 
+
+* 2 weeks from now we meet again
+* One month from now we present scenarios
+
+
+* March 3rd, WH panel. Seeking speaker Re big data applications in health transportation and education. 
